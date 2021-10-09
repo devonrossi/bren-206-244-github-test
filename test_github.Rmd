@@ -17,7 +17,7 @@ lavendar <- 12
 
 mustard <- 12
 
-purple <- green/blue
+purple <- 98
 
 ```
 
